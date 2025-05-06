@@ -6775,11 +6775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aorus\\Downloads\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
+      "projectUniqueName": "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
       "projectName": "Tutorial8",
-      "projectPath": "C:\\Users\\Aorus\\Downloads\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
+      "projectPath": "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
       "packagesPath": "C:\\Users\\Aorus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aorus\\Downloads\\Tutorial8\\Tutorial8\\obj\\",
+      "outputPath": "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aorus\\AppData\\Roaming\\NuGet\\NuGet.Config"

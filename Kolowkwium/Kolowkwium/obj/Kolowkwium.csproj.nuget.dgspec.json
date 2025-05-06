@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\Tutorial8.csproj": {}
+    "C:\\Users\\Aorus\\Desktop\\Kolowkwium\\Kolowkwium\\Kolowkwium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\Tutorial8.csproj": {
+    "C:\\Users\\Aorus\\Desktop\\Kolowkwium\\Kolowkwium\\Kolowkwium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
-        "projectName": "Tutorial8",
-        "projectPath": "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
+        "projectUniqueName": "C:\\Users\\Aorus\\Desktop\\Kolowkwium\\Kolowkwium\\Kolowkwium.csproj",
+        "projectName": "Kolowkwium",
+        "projectPath": "C:\\Users\\Aorus\\Desktop\\Kolowkwium\\Kolowkwium\\Kolowkwium.csproj",
         "packagesPath": "C:\\Users\\Aorus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aorus\\Desktop\\Repository\\Tutorial8\\Tutorial8\\obj\\",
+        "outputPath": "C:\\Users\\Aorus\\Desktop\\Kolowkwium\\Kolowkwium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aorus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,14 +47,6 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
-            },
-            "Microsoft.Data.SqlClient": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[9.0.0, )"
             }
           },
           "imports": [
